@@ -1,6 +1,6 @@
 addEventListener("load", load);
 //llamo al servidor
-var servi = "https://parcialedibackend.herokuapp.com/";
+var servi = "http://localhost:444";
 
 function $(demo){
     return document.getElementById(demo);
