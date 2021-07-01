@@ -22,7 +22,7 @@ function retornoDelClick(respuesta){
     if(respuesta == 'Bienvenido'){
         location.replace("pantallaprincipal.html");
     }else{
-        alert('error al ingresar');
+        alert('Usuario o contraseña incorrecto');
     }
 }
 
